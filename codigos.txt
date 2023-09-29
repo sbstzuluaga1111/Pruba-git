@@ -1,0 +1,7 @@
+git branch
+
+git branch rama1
+
+git branch -m rama1 prueba1
+
+git checkout prueba1
