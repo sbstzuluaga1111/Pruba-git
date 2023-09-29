@@ -1,7 +1,15 @@
-git branch
+git branch:
+mira la rama actual en la que me encuetro.
 
-git branch rama1
+git branch rama1:
+crea un rama.
 
-git branch -m rama1 prueba1
+git branch -m rama1 prueba1:
+renombra la rama o cambia el nombre.
 
-git checkout prueba1
+git checkout prueba1:
+selecciona la rama donde vas a trabajar.
+
+git branch -d prueba1:
+elimina una rama pero no puedes estar trabajando en ella.
+
