@@ -16,3 +16,5 @@ elimina una rama pero no puedes estar trabajando en ella.
 git diff master prueba1:
 Mirar cambios de una rama y otra.
 
+git merge prueba1 master:
+combina los cambios de las ramas hacia master pero hay que estar parado o trabajando en la rama a la que se le van a adjuntar esos cambios.
